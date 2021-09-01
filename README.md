@@ -1,0 +1,2 @@
+# getCommandPratice
+getCommandPratice
